@@ -6,5 +6,5 @@ A react site which displays different tour packages
 </p>
 
 <p align="center">
-  <img src = 'End.png' alt = 'End'>
+  <img src = 'end.png' alt = 'End'>
 </p>
